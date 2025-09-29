@@ -1,5 +1,2 @@
-"Hello Git"
-
-This is my second line
-Detached experiment line
-This line is on the feature branch
+Hello Git
+Shared line 
