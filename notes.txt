@@ -1,3 +1,4 @@
 Hello Git
 We continue here
 Line number 3
+Line added in feature branch
