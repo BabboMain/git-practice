@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 Hello Git
 Shared line from A
+
+"Hello Git"
+
+This is my second line
+Detached experiment line
+This line is on the feature branch
+Line from experiment A
+
